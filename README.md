@@ -2,7 +2,7 @@
 
 
 ## Connect With Me
-[![LI-Logo](https://user-images.githubusercontent.com/60769151/107105948-3a1c3c00-67e6-11eb-9eed-6691ca6a4962.png)][1]
+[![LI-Logo](https://user-images.githubusercontent.com/60769151/107106513-481f8c00-67e9-11eb-89c4-5fad29abcd5e.png)][1]
 <!-- <a href="https://www.linkedin.com/in/austin-scobee/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
 <!-- <a href="https://mitchellkrieger.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> -->
 <!-- <a href="mailto:mitkrieger@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=Gmail&logoColor=white" /></a> -->
