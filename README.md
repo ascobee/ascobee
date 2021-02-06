@@ -1,5 +1,11 @@
 # Hi there 👋
 
+Versatile, naturally curious engineer with three years of professional experience. Optimized data entry efforts to reduce inefficiencies and streamline product delivery. Utilizing my chemical and electrical engineering background provides perspective as I develop solutions in Python and C++.
+
+## Highlighted Projects
+
+Coming soon!
+
 ## Connect With Me
 
 [![LI-In-Bug](https://user-images.githubusercontent.com/60769151/107107018-cf6dff00-67eb-11eb-9e12-ea05031f6178.png)][1]
@@ -10,19 +16,7 @@
 [2]: mailto:austin.scobee@gmail.com
 [3]: https://www.austinscobee.com/
 
-<!--
-**ascobee/ascobee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Currently Working On
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- # Hi there 👋 -->
+- Exploring Amazon Web Services and cloud computing
+- Experimenting with the Robot Framework in Python to further develop robotics process automation and test automation skills
