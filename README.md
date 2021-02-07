@@ -20,6 +20,11 @@ Play the classic phone game "Snake" right in the terminal. The snake never stops
 
 Working in Python, I was able to create a password checker that has become a useful tool for myself and could be to others when trying to avoid being a target in a data breach. This uses the Pwned Passwords API to find out how many times a particular password has been leaked. This simple script could be useful for any user.
 
+## Currently Working On
+
+- Exploring Amazon Web Services and cloud computing
+- Experimenting with the Robot Framework in Python to further develop robotics process automation and test automation skills
+
 ## Connect With Me
 
 [![LI-In-Bug](https://user-images.githubusercontent.com/60769151/107107018-cf6dff00-67eb-11eb-9e12-ea05031f6178.png)][1]
@@ -29,8 +34,3 @@ Working in Python, I was able to create a password checker that has become a use
 [1]: https://www.linkedin.com/in/austin-scobee/
 [2]: mailto:austin.scobee@gmail.com
 [3]: https://www.austinscobee.com/
-
-## Currently Working On
-
-- Exploring Amazon Web Services and cloud computing
-- Experimenting with the Robot Framework in Python to further develop robotics process automation and test automation skills
