@@ -8,17 +8,17 @@ Versatile, naturally curious engineer with three years of professional experienc
 
 Using Python, Docker and PostgreSQL, I was able to create a backend REST API for a fictional cooking recipe website. After signing in, users can manage their accounts, recipes, images, and more!
 
-### [Convenient Calculator](https://github.com/ascobee/convenient-calculator)
+### [Password Checker](https://github.com/ascobee/password-checker)
 
-Using the Tkinter package for Python, I built a gaphical user interface calculator capable of performing basic math operations.
+Working in Python, I was able to create a password checker that has become a useful tool for myself and could be to others when trying to avoid being a target in a data breach. This uses the Pwned Passwords API to find out how many times a particular password has been leaked. This simple script could be useful for any user.
 
 ### [Classic Game: Snake](https://github.com/ascobee/snake-game-cli)
 
 Play the classic phone game "Snake" right in the terminal. The snake never stops moving and grows as it eats apples. Quickly navigate to avoid walls and eating your own tail!
 
-### [Password Checker](https://github.com/ascobee/password-checker)
+### [Convenient Calculator](https://github.com/ascobee/convenient-calculator)
 
-Working in Python, I was able to create a password checker that has become a useful tool for myself and could be to others when trying to avoid being a target in a data breach. This uses the Pwned Passwords API to find out how many times a particular password has been leaked. This simple script could be useful for any user.
+Using the Tkinter package for Python, I built a gaphical user interface calculator capable of performing basic math operations.
 
 ## Currently Working On
 
