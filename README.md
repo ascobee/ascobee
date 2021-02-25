@@ -8,9 +8,9 @@ Versatile, naturally curious engineer with three years of professional experienc
 
 Using Python, Docker and PostgreSQL, I was able to create a backend REST API for a fictional cooking recipe website. After signing in, users can manage their accounts, recipes, images, and more!
 
-### [Cryptobot](https://github.com/ascobee/cryptobot)
+### [Crypto Trading Bot](https://github.com/ascobee/cryptobot)
 
-Crypto trading bot with market predictions using machine learning.
+Cryptobot is a Python project that I'm currently obsessed with. This user-friendly interface allows you to research, monitor, and trade cryptocurrencies through your Robinhood account. I'm adding new features and functionality from a growing list of ideas weekly. Some of the existing features include: execute new market/limit orders, view or cancel existing orders, and produce graphs of historical data. I'm currently working on the next prominent feature: market predictions using machine learning.
 
 ### [Password Checker](https://github.com/ascobee/password-checker)
 
@@ -22,6 +22,7 @@ Play the classic phone game "Snake" right in the terminal. The snake never stops
 
 ## Currently Working On
 
+- Developing solutions using machine learning
 - Exploring Amazon Web Services and cloud computing
 - Experimenting with the Robot Framework in Python to further develop robotics process automation and test automation skills
 
